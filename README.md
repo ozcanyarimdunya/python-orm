@@ -1,1 +1,1 @@
-Simple Python ORM with pony and sqlalchemy in sqlite
+Simple Python ORM with pony, sqlalchemy and peewee for sqlite
